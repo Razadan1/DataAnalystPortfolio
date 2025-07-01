@@ -1,0 +1,29 @@
+
+{
+  "name": "dataanalyst-portfolio",
+  "version": "1.0.0",
+  "description": "Professional Data Analyst Portfolio for Ahmadraza Danmole (Raza)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "data-analyst",
+    "portfolio",
+    "power-bi",
+    "excel",
+    "tableau",
+    "data-visualization",
+    "sql",
+    "data-cleaning"
+  ],
+  "author": "Ahmadraza Danmole (Raza)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
