@@ -575,6 +575,14 @@ body {
     color: #509ee3;
 }
 
+.tool-item.sql i {
+    color: #336791;
+}
+
+.tool-item.python i {
+    color: #3776ab;
+}
+
 .tool-item span {
     font-weight: 600;
     color: var(--text-dark);
